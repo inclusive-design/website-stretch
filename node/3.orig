@@ -1,0 +1,233 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta about="/node/3" property="sioc:num_replies" content="0" datatype="xsd:integer" />
+<link rel="shortcut icon" href="http://stretch2.idrc.ocad.ca/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta content="Accessible Art" about="/node/3" property="dc:title" />
+<link rel="shortlink" href="/node/3" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="/node/3" />
+  <title>Accessible Art | Stretch 2.0 Accessible Art and Design Contest</title>
+  <style type="text/css" media="all">@import url("http://stretch2.idrc.ocad.ca/modules/system/system.base.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/system/system.menus.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/system/system.messages.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/system/system.theme.css?mzy52p");</style>
+<style type="text/css" media="all">@import url("http://stretch2.idrc.ocad.ca/modules/comment/comment.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/field/theme/field.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/node/node.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/search/search.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/modules/user/user.css?mzy52p");</style>
+<style type="text/css" media="all">@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/layout.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/style.css?mzy52p");
+@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/colors.css?mzy52p");</style>
+<style type="text/css" media="print">@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/print.css?mzy52p");</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://stretch2.idrc.ocad.ca/themes/bartik/css/ie.css?mzy52p" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://stretch2.idrc.ocad.ca/themes/bartik/css/ie6.css?mzy52p" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://stretch2.idrc.ocad.ca/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://stretch2.idrc.ocad.ca/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://stretch2.idrc.ocad.ca/misc/drupal.js?mzy52p"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"UFSQKeU5nJWoRrj9YZtJcN4wlHDjK8safzY0KLSyViQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-3 node-type-page footer-columns" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/" title="Home" rel="home" id="logo">
+        <img src="http://stretch2.idrc.ocad.ca/sites/stretch2.idrc.ocad.ca/files/stretch2_logo_header.gif" alt="Home" />
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <div id="site-name">
+              <strong>
+                <a href="/" title="Home" rel="home"><span>Stretch 2.0 Accessible Art and Design Contest</span></a>
+              </strong>
+            </div>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-198 first"><a href="/">Home</a></li>
+<li class="menu-281"><a href="/node/2">Contest Details</a></li>
+<li class="menu-282 active-trail active"><a href="/node/3" class="active-trail active">Accessible Art</a></li>
+<li class="menu-283"><a href="/node/4">Accessible Computing</a></li>
+<li class="menu-294"><a href="/node/8">How - To</a></li>
+<li class="menu-284"><a href="/node/5">Teacher Zone</a></li>
+<li class="menu-286"><a href="/node/7">Gallery</a></li>
+<li class="menu-285 last"><a href="/node/6">Contact</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div></div>
+    
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                    <h1 class="title" id="page-title">
+          Accessible Art        </h1>
+                          <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-3" class="node node-page node-full clearfix" about="/node/3" typeof="foaf:Document">
+
+      
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><div align="justify">
+<div style="text-align: center; float: right;"><img src="http://stretch2.drupal.idrc.ocad.ca/sites/stretch2.idrc.ocad.ca/files/easel_stretch_cartoon.png" width="288" height="281" alt="Accessible art logo - a stretched blob on an easel" title="" /></div>
+<h2>Accessible Art</h2>
+<p>Art can be inclusive of the diversity of human ability in many different ways. Some artists seek to make their work accessible to audience members with disabilities by creating art that crosses sensory modalities, so that the same work can be felt or heard or seen. Other artists use their art to express emotions or convey statements about ability and disability.</p>
+<p>The personal and expressive nature of art can make it a challenge to determine whether a piece of artwork is accessible or not.  Contest entries will be assessed instead according to their creativity, demonstrated artistic skill, whether the artist's intent was likely fulfilled and the effectiveness of the video at explaining the entry, including the author's intent.</p>
+<p>The <a href="http://stretch.atrc.utoronto.ca/tile/servlet/search?browse=true" target="blank">original Stretch web collection</a> includes works by students and professional artists.</p>
+<p><a href="http://www.artbeyondsight.org/e-gallery.php" target="blank">"Art Beyond Sight"</a> includes some useful examples.</p>
+<h3>Project Ideas:</h3>
+<ul><li>An art video with captions and audio descriptions</li>
+<li>Tactile sculpture</li>
+<li>Accessible interactive art exhibit</li>
+<li>Collage of historical assistive devices</li>
+</ul><h3><u>Sample Lesson Plans 1: Accessible Art Category</u></h3>
+<p><b>How inclusive is our surroundings?</b></p>
+<p><b>Overview</b></p>
+<p>Students will work in groups/ individually to research the meaning of the word “inclusive” and research any one or more area of their choice that surrounds them, (home/ school/ playground/ community centre etc.)  in terms of history, geography, infrastructure,  topography and physical features and more. This group or individual will use any material that they readily find in their environment to represent their investigation and findings in an informative and artistic way making it accessible for all to experience. <b><i>The art piece should appeal the hearing, visual and tactile senses of the audience.</i></b></p>
+<p><b>Age Group</b></p>
+<ul><li>Secondary- grades 9 to 12 or below 24 years</li>
+</ul><p><b>Lesson time to complete:</b></p>
+<ul><li>Approximately an hour each for two sessions</li>
+</ul><p><b>Learning Skills Addressed:</b> </p>
+<ul><li>Critical Thinking and Reasoning: Student(s) will ask questions; research the internet, library, local information centre if any. Would understand how the environment could be disability friendly or contributing to make people more disabled.</li>
+<li>Information Literacy- Research conducted by student (S) will help to increase skills to filter information needed and those not needed for the topic, observe and comprehend.</li>
+<li>Invention- Student(s) would develop skills to think critically, invent and discover to create their art piece from resources in the environment.</li>
+</ul><p><b>Rationale</b></p>
+<p>Student will receive hands on experience; they are left on their own to investigate and thus, would be able to experience on their own the environment and how inclusive is it or is it not? It will also help student with innovative ways to make the physical environment more inclusive to all. </p>
+<p><b>Process:</b></p>
+<p>Student (s) will work with sketchbooks to formulate ideas, take pictures of the environment, record sound, and collect material to be used for the tactile effect in their work. Once that is done student can then put all the pieces together to form a blue print of the work. Student (s) will then discuss with teacher before going ahead with the final work.</p>
+<p><b>Materials</b></p>
+<p>AV equipment, camera, sketchbook, local maps, access to the internet, presentation materials and technology as needed.</p>
+<p><i>Important note:<br />
+Student (s) can use the same play to create a presentation in the form of a video for the “Accessible Art Category”- with Audio video description and captions.</i></p>
+<h3><u>Sample Lesson Plans 2: Accessible Art Category</u></h3>
+<p><b>How accessible/ inaccessible are public buildings?</b></p>
+<p><b>Overview</b></p>
+<p>Students will learn how a public building (chosen by the student) reflects the ideas of the architect and compare this to how inaccessible or accessible it is. Students will look at the building chosen, investigated facts about the building, read about the history, and interview staff or people who are in the building on a regular basis. Student (s) will briefly, interview people about their experience regarding the architecture of the building with accessibility and inaccessibility points in mind to better understand the similarities and differences in the architect’s and the public’s points of view. <b><i>The art piece should appeal the hearing, visual and tactile senses of the audience.</i></b></p>
+<p><b>Age Group</b></p>
+<ul><li>Secondary- grades 9 to 12 or below 24 years</li>
+</ul><p><b>Lesson time to complete:</b></p>
+<ul><li>Approximately an hour each for two sessions</li>
+</ul><p><b>Learning Skills Addressed:</b> </p>
+<ul><li>Critical Thinking and Reasoning: Student(s) will ask questions; research the internet, library, local information centre and research background information of the building. Student (s) would understand how the architecture can make a building “open to all” or have only selected people with certain physical attributes visit or enter it.</li>
+<li>Information Literacy- Research and interviews conducted by student (s) will help to increase skills to filter information needed and those not needed for the topic, observe and comprehend.</li>
+<li>Invention- Student(s) would develop skills to think critically, invent and discover to create their art piece from the information they gather from their research.</li>
+</ul><p><b>Rationale</b></p>
+<p>Student will receive hands-on experience; they are left independent to conduct their own investigation and interviews, survey and thus, would be able to experience on their own, how little changes can make big difference for all. Popularly known as the “curb cut advantage” By learning how architectural design is conceived by an architect and comparing this to how it is perceived by the public, students learn to analyze varied points of view. </p>
+<p><b>Process:</b></p>
+<p>Student (s) will work with sketchbooks to formulate ideas, take pictures of the environment, record sound, and collect material to be used for the tactile effect in their work. Once that is done student can then put all the pieces together to form a blue print of the work. Student (s) will then discuss with teacher before going ahead with the final work.</p>
+<p><b>Materials</b></p>
+<p>AV equipment, camera, sketchbook, local maps, access to the internet, presentation materials and technology as needed, access to a group of people who can be surveyed (this can be family members that students talk to at home or teachers)</p>
+<p><i>Important note:<br />
+Student (s) can use the same play to create a presentation in the form of a video for the “Accessible Art Category”- with Audio video description and captions.</i></p>
+<h3>Links</h3>
+<p><strong>Note: All links are to external sites. OCAD University is not responsible for their content or maintenance.</strong></p>
+<ul><li><a href="http://designexchange.org/connect/" target="blank">CONNECT EnAbling Change Post-Secondary Design Competition</a></li>
+<li><a href="http://www.abilitiesartsfestival.org/" target="blank">Abilities Arts Festival</a></li>
+<li><a href="http://www.abilities.ca/" target="blank">Abilities Magazine</a></li>
+<li><a href="http://www.rom.on.ca/exhibitions/special/judith_snow.php" target="blank">"Who's Drawing the Lines: The Journey of Judith Snow"</a> (Exhibiting at the ROM until January 20, 2012) </li>
+<li><a href="http://www.ryerson.ca/ds/activism/performances.html" target="blank">Art With Attitude"</a> by Ryerson Disability Studies</li>
+<li><a href="http://www.infinitec.org/learn/art/computeraided.htm" target="blank">Infinitec.org</a> - Infinite potential through assistive technology</li>
+<li><a href="http://nadc.ucla.edu/webtour.cfm#Art" target="blank">National Arts and Disability Centre</a> at UCLA</li>
+<li><a href="http://www.artbeyondsight.org/ " target="blank">Art beyond Sight</a></li>
+<li>OCAD U Professional Gallery,  Exhibit titled <a href="http://www.ocad.ca/onsite/past_exhibitions/fashion_forward.htm" target="blank">"Fashion Forward: Toronto (ad)dresses the Future"</a> by Charles Reeves – Curator</li>
+<li><a href="http://www.nfb.ca/film/shameless_the_art_of_disability/" target="blank">Shameless (video)</a> by Bonnie Sherr Klein (hosted by National Film Board of Canada)</li>
+<li><a href="http://lightscameraaccess.ca/" target="blank">Lights Camera Access</a>– disability in entertainment organization</li>
+</ul></div>
+</div></div></div>  </div>
+
+  
+  
+</div>
+  </div>
+</div>
+  </div>
+      
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+          <div id="footer-columns" class="clearfix">
+          <div class="region region-footer-firstcolumn">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="http://drupal.org">Drupal</a></span>  </div>
+</div>
+  </div>
+                          <div class="region region-footer-fourthcolumn">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/node/3?destination=node/3" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" value="form-838PWXC6rhOlH5JbF9HYrk-nmYyB3kXU1DUc1_qvtK8" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit" /></div></div></form>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer-columns -->
+    
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>
