@@ -14,36 +14,36 @@
 <head profile="http://www.w3.org/1999/xhtml/vocab">
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta about="/node/5" property="sioc:num_replies" content="0" datatype="xsd:integer" />
-<link rel="shortcut icon" href="http://stretch2.idrc.ocad.ca/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/vnd.microsoft.icon" />
 <meta content="Teacher Zone" about="/node/5" property="dc:title" />
 <link rel="shortlink" href="/node/5" />
 <meta name="Generator" content="Drupal 7 (http://drupal.org)" />
 <link rel="canonical" href="/node/5" />
   <title>Teacher Zone | Stretch 2.0 Accessible Art and Design Contest</title>
-  <style type="text/css" media="all">@import url("http://stretch2.idrc.ocad.ca/modules/system/system.base.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/system/system.menus.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/system/system.messages.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/system/system.theme.css?mzy52p");</style>
-<style type="text/css" media="all">@import url("http://stretch2.idrc.ocad.ca/modules/comment/comment.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/field/theme/field.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/node/node.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/search/search.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/modules/user/user.css?mzy52p");</style>
-<style type="text/css" media="all">@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/layout.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/style.css?mzy52p");
-@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/colors.css?mzy52p");</style>
-<style type="text/css" media="print">@import url("http://stretch2.idrc.ocad.ca/themes/bartik/css/print.css?mzy52p");</style>
+  <style type="text/css" media="all">@import url("/modules/system/system.base.css?mzy52p");
+@import url("/modules/system/system.menus.css?mzy52p");
+@import url("/modules/system/system.messages.css?mzy52p");
+@import url("/modules/system/system.theme.css?mzy52p");</style>
+<style type="text/css" media="all">@import url("/modules/comment/comment.css?mzy52p");
+@import url("/modules/field/theme/field.css?mzy52p");
+@import url("/modules/node/node.css?mzy52p");
+@import url("/modules/search/search.css?mzy52p");
+@import url("/modules/user/user.css?mzy52p");</style>
+<style type="text/css" media="all">@import url("/themes/bartik/css/layout.css?mzy52p");
+@import url("/themes/bartik/css/style.css?mzy52p");
+@import url("/themes/bartik/css/colors.css?mzy52p");</style>
+<style type="text/css" media="print">@import url("/themes/bartik/css/print.css?mzy52p");</style>
 
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://stretch2.idrc.ocad.ca/themes/bartik/css/ie.css?mzy52p" media="all" />
+<link type="text/css" rel="stylesheet" href="/themes/bartik/css/ie.css?mzy52p" media="all" />
 <![endif]-->
 
 <!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="http://stretch2.idrc.ocad.ca/themes/bartik/css/ie6.css?mzy52p" media="all" />
+<link type="text/css" rel="stylesheet" href="/themes/bartik/css/ie6.css?mzy52p" media="all" />
 <![endif]-->
-  <script type="text/javascript" src="http://stretch2.idrc.ocad.ca/misc/jquery.js?v=1.4.4"></script>
-<script type="text/javascript" src="http://stretch2.idrc.ocad.ca/misc/jquery.once.js?v=1.2"></script>
-<script type="text/javascript" src="http://stretch2.idrc.ocad.ca/misc/drupal.js?mzy52p"></script>
+  <script type="text/javascript" src="/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="/misc/drupal.js?mzy52p"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"IivzwndFubJuEOH1Zge7Reh2SoeiJIHbq0jeoFCSbeQ","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}}});
@@ -59,7 +59,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div id="header" class="without-secondary-menu"><div class="section clearfix">
 
           <a href="/" title="Home" rel="home" id="logo">
-        <img src="http://stretch2.idrc.ocad.ca/sites/stretch2.idrc.ocad.ca/files/stretch2_logo_header.gif" alt="Home" />
+        <img src="/sites/stretch2.idrc.ocad.ca/files/stretch2_logo_header.gif" alt="Home" />
       </a>
     
           <div id="name-and-slogan">
